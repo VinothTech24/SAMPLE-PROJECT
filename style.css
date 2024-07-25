@@ -1,6 +1,7 @@
 body{
     background-color: aqua;
-    background-size: cover;
+    margin: 0;
+
 }
 .navigation{
     overflow: hidden;
